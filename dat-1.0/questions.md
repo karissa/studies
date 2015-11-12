@@ -6,17 +6,15 @@
 
 3) What role do you take on in the team?
 
-4) Are there problems right now in your workflow?
+4) How do you send your teammates data?
 
-5) How do you send your teammates data?
+5) Do you ever move code to a production machine, like a super computer or AWS instance? How do you do that?
 
-6) Do you ever move code to a production machine, like a super computer or AWS instance? How do you do that?
+6) What problems have you had trying to get data and code to the production instance?
 
-7) What problems have you had trying to get data and code to the production instance?
+7) Have you ever tried to teach someone how to do this? How did that go?
 
-8) Have you ever tried to teach someone how to do this?
-
-9) Git familiarity and problems.
+8) Git familiarity and problems.
 If no mention of Git:
   - Have you tried to use git?
   - What stops you from using git to collaborate?
