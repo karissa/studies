@@ -10,7 +10,7 @@
 
 5) Do you ever move code to a production machine, like a super computer or AWS instance? How do you do that?
 
-6) What problems have you had trying to get data and code to the production instance?
+6) What problems have you had trying to get data and code to someone else?
 
 7) Have you ever tried to teach someone how to do this? How did that go?
 
